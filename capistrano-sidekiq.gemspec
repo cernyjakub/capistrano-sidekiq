@@ -19,5 +19,5 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'capistrano', '>= 3.9.0'
   spec.add_dependency 'capistrano-bundler'
-  spec.add_dependency 'sidekiq', '>= 6.0'
+  spec.add_dependency 'sidekiq', '>= 5.0'
 end
